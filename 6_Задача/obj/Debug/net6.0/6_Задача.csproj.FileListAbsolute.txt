@@ -1,0 +1,15 @@
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\bin\Debug\net6.0\6_Задача.exe
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\bin\Debug\net6.0\6_Задача.deps.json
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\bin\Debug\net6.0\6_Задача.runtimeconfig.json
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\bin\Debug\net6.0\6_Задача.dll
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\bin\Debug\net6.0\6_Задача.pdb
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\6_Задача.csproj.AssemblyReference.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\6_Задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\6_Задача.AssemblyInfoInputs.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\6_Задача.AssemblyInfo.cs
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\6_Задача.csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\6_Задача.dll
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\refint\6_Задача.dll
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\6_Задача.pdb
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\6_Задача.genruntimeconfig.cache
+C:\Users\Я\Desktop\ТАНЯ-тестировщик ГИК\HomeWork_1301\6_Задача\obj\Debug\net6.0\ref\6_Задача.dll
